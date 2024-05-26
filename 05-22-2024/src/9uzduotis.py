@@ -32,8 +32,4 @@ class Library:
                 print("No such book")
 
 mylib = Library()
-mylib.add_book("Mazvydas", "Katekizmas")
-
-mylib.borrow_book("Mazvydas", "Katekizmas")
-mylib.return_book("Mazvydas", "Katekizmas")
 
